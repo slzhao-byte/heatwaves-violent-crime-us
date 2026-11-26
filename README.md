@@ -1,6 +1,6 @@
 # Heatwaves and violent offenses in US cities
 
-R code for the main analyses of *Disproportionate burden of heatwave-related violent crime across US cities in past and future climates* (in preparation).
+R code for the main analyses of *Contribution of climate change to heatwave-related violent crime across 66 US cities 2005-2099* (in preparation).
 
 `main_analysis.R` runs the three steps of the paper in order: the case-crossover association between heatwaves and violent offenses by social vulnerability group, the burden attributable to anthropogenic warming in 2005–2022, and the projected burden under four SSP scenarios. Results are written to `output/`.
 
